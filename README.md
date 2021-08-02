@@ -1,5 +1,7 @@
 # Artificial-Life-with-Netlogo
 Here we are write cide in netlogo for the termites to collect and flock
+
+
 Model 1 “Collecting”: 
 •	Pile formation of either green chips, blue chips or both.
 •	The possibility for the user to put two circular patches of chosen size (radius) at chosen x, y coordinates .
